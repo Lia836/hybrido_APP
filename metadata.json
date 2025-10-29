@@ -1,0 +1,5 @@
+{
+  "name": "Hybrido – Créateur de ressources multimodales",
+  "description": "Une application web pour générer des ressources pédagogiques (quiz, cas pratiques, infographies, etc.) en se basant sur la taxonomie de Bloom et des paramètres utilisateurs avancés. Propulsé par l'API Gemini.",
+  "requestFramePermissions": []
+}
